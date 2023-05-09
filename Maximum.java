@@ -1,6 +1,7 @@
 package program;
 import java.util.*;
 
+//To find Greatest Number
 public class Maximum {
 
 	public static void main(String[] args) {

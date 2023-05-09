@@ -1,6 +1,7 @@
 package program;
 import java.util.*;
 
+// Volume of cone find and take input from user?
 class Cone{
 	int r,h;
 	double vol;

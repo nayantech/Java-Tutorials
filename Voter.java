@@ -1,6 +1,8 @@
 package program;
 import java.util.*;
 
+
+//check person age is eligible for vote or not?
 public class Voter {
 
 	public static void main(String[] args) {

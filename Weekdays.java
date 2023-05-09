@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//to find days on number?
 public class Weekdays {
 
 	public static void main(String[] args) {

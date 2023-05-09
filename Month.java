@@ -2,6 +2,7 @@ package program;
 import java.util.*;
 public class Month {
 
+//take user input to check check number wise month
 	public static void main(String[] args) {
 		int num;
 		Scanner obj = new Scanner(System.in);

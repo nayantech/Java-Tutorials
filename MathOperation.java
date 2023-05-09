@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//To perform math operations Addition,substraction,multiplication,modulus,division
 public class MathOperation {
 
 	// Switch case

@@ -2,7 +2,7 @@ package program;
 import java.util.*;
 
 
-//write to find out volume of cyclinder by taking user input and showon on output
+//write to find out volume of cylinder by taking user input and show on output
 
 class Cylinder{
 	int r,h;

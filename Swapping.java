@@ -1,6 +1,7 @@
 package program;
 import java.util.*;
 
+//Swapping two number
 public class Swapping {
 
 	public static void main(String[] args) {

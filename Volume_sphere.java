@@ -1,6 +1,7 @@
 package program;
 import java.util.*;
 
+//to calculate Volume of sphere and take input from user?
 class Sphere{
 	int r;
 	double vol;

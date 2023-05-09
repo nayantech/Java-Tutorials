@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//Write a program to check wheter number is even or odd?
 public class Even_odd {
 
 	public static void main(String[] args) {

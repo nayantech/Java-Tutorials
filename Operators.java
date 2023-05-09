@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//Operators perform
 public class Operators {
 
 	public static void main(String[] args) {

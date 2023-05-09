@@ -1,6 +1,8 @@
 package program;
 import java.util.*;
 
+
+// to check number is positive,negative or zero
 public class Numbers {
 
 	public static void main(String[] args) {
