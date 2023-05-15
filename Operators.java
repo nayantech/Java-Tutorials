@@ -1,6 +1,7 @@
 package program;
 import java.util.*;
 
+//Write a program in java to perform all aithimatic operations?
 //Operators perform
 public class Operators {
 

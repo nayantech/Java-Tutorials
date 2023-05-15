@@ -2,6 +2,7 @@ package program;
 import java.util.*;
 
 //Swapping two number
+//Write a program in java to swap value of 2 variable
 public class Swapping {
 
 	public static void main(String[] args) {

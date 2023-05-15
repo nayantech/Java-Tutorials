@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//Write a program in java to except elements in array and display all the elements of array
 public class Arrays {
 
 	public static void main(String[] args) {

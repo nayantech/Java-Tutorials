@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//Write a program in java to check Whether n element present in array of not 
 public class Search {
 
 	public static void main(String[] args) {

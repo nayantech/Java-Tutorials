@@ -1,7 +1,7 @@
 package program;
 import java.util.*;
 
-//write a program in java to calculate volume of cone  take input from user?
+//write a program in java to find vowel and consonent taking user input?
 public class VowCon {
 
 	public static void main(String[] args) {

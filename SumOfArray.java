@@ -1,5 +1,8 @@
 package program;
 import java.util.*;
+
+
+//TO find sum of all the array element
 public class SumOfArray {
 
 	public static void main(String[] args) {
