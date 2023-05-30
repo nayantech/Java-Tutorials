@@ -15,7 +15,7 @@ public class Maximum {
 		System.out.println("Second Number Is: " +n2);
 		System.out.println("Third Number Is: " +n3);
 		
-		if(n1>n2 && n1>n2) {
+		if(n1>n2 && n1>n3) {
 			System.out.println("Greatest number among 3 numbers is" + n1);
 		}
 		if(n2>n1 && n2>n3) {
