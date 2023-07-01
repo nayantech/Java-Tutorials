@@ -1,6 +1,8 @@
 package program;
 import java.util.*;
 
+//Write a program in java to demonstrate multitherading by extending thread class?
+
 class Thread2 extends Thread{
 	public void run(){
 		int i; 

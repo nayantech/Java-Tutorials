@@ -1,6 +1,9 @@
 package program;
 import java.util.*;
 
+
+//Write a program in java to demonstrate multi threading using thread class ? 
+
 class Thread1 extends Thread
 {
 	public void run() {
