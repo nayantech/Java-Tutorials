@@ -22,4 +22,9 @@ public class Arrays {
 
 	}
 
+	public static void sort(Studentses[] s) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

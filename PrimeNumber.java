@@ -17,7 +17,14 @@ public class PrimeNumber {
 		}
 		else {
 			System.out.println(n + " Is not a prime Number");
-		}
+		} 
+		
+//		if(n%b==0) {
+//		System.out.println(n+" Number is Even ");
+//		}
+//		else {
+//			System.out.println(n+" Number is Prime ");
+//		}
 
 	}
 
