@@ -28,7 +28,7 @@ public class BubbleSort {
 			}
 		}
 
-		System.out.println("/nElements of array in ascending order are as follows");
+		System.out.println("\nElements of array in ascending order are as follows");
 		for(i=0;i<n;i++) {
 			System.out.print( " " +a[i]);
 		}

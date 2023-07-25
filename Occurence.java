@@ -19,7 +19,7 @@ public class Occurence {
 		for(i=0;i<n;i++) {
 			System.out.print( " " + a[i]);
 		}
-		System.out.println("Enter an element whose occurence is to be found");
+		System.out.println("\nEnter an element whose occurence is to be found");
 		num = obj.nextInt();
 		for(i=0;i<n;i++) {	
 			if(num == a[i])

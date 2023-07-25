@@ -5,7 +5,7 @@ import java.util.*;
 public class MultiDimensionalArray {
 
 	public static void main(String[] args) {
-		int i,j,m,n,sum=0;
+		int i,j,m,n;
 		int a[][] = new int[50][50];
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter order of matrix a ");

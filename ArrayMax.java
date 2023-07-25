@@ -22,6 +22,7 @@ public class ArrayMax {
 		{
 		System.out.print(" " +a [i]);
 		}
+		
 		for(i=0;i<n;i++)
 		{
 		if(max < a[i])
