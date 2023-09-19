@@ -16,21 +16,21 @@ public class jdbc_program3 {
 		//for insert
 //		String query="insert into employes values(?,?,?,?,?,?)";
 		
-		//for update only this not perform all are performed here
-		String query="update employes set exp=? where id=?";
+		//for update 
+//		String query="update employes set exp=? where id=?";
 		
-		//for delete
-//		String query="delete from employes where id=?";
+//		for delete
+		String query="delete from employes where id=?";
 		
 		PreparedStatement pst=con.prepareStatement(query);
 		
 		//delete
-//		pst.setInt(1, 7);
+		pst.setInt(1, 6);
 		
 		
 //		update
-		pst.setInt(1, 2);
-		pst.setInt(2, 101);
+//		pst.setInt(1, 12000);  //first is experience given
+//		pst.setInt(2, 3);      //second is id given
 //		
 		
 		//insert
@@ -43,7 +43,7 @@ public class jdbc_program3 {
 //		pst.setInt(7, 32000);
 		
 //		insert in my home system
-//		pst.setInt(1, 8);
+//		pst.setInt(1, 12);
 //		pst.setString(2, "Juli");
 //		pst.setString(3, "Software Testing");
 //		pst.setString(4, "Testing");
